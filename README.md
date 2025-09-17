@@ -38,6 +38,8 @@ The platform is designed as a modular pipeline:
             │ Trading Simulation  │  ← CAGR, Sharpe Ratio, MaxDD
             └─────────────────────┘
 
+            
+
 🔄 Pipeline Steps
 
 Data Fetching
