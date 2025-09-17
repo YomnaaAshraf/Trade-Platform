@@ -86,8 +86,8 @@ Metrics: CAGR, Sharpe Ratio, Max Drawdown, Total Return.
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-repo/stock-prediction-platform.git
-cd stock-prediction-platform
+git clone [https://github.com/your-repo/stock-prediction-platform.git](https://github.com/YomnaaAshraf/Trade-Platform/tree/main?tab=readme-ov-file)
+cd Trade-platform
 pip install -r requirements.txt
 
 ▶️ Usage
