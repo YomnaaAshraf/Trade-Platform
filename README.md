@@ -26,8 +26,7 @@ The platform is designed as a modular pipeline:
                       │
    ┌──────────────────▼──────────────────┐
    │      Model Training & Tuning        │
-   │ RandomForest | XGBoost | LogisticReg│
-   │             | SVM                   │
+   │                 │
    └──────────────────┬──────────────────┘
                       │
             ┌─────────▼───────────┐
